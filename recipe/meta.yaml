@@ -26,6 +26,9 @@ requirements:
     - dask
     - colorcet
     - zarr
+    - fastcore
+    - pandas
+    - toml
 
 test:
   imports:
