@@ -22,7 +22,12 @@ requirements:
     - python >=3.7
     - numpy
     - scipy
-    - matplotlib-base
+    - matplotlib
+    - numba
+    - datashader
+    - holoviews
+    - numexpr
+    - pyproj >=3.0
     - dask
     - colorcet
     - zarr
